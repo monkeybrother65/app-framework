@@ -7,6 +7,10 @@
     "regexp": "/^[a-z]{2}$/",
     "default": "en"
   },
+  "styleBase": {
+    "allow": "string",
+    "default": null
+  },
   "theme": {
     "allow": ["ios", "material", "ios-material", "material-ios"],
     "default": "material"
